@@ -1,0 +1,35 @@
+{
+    "name": "easyshop",
+    "short_name": "easyshop",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "BTC/USDT, Bitcoin Trade Signal, Crypto Trading Signals, Crypto Market Analysis, Bitcoin Price Prediction, Bitcoin Trading, BTC Trade Setup, Crypto Trading 2025, BTC USDT Analysis, Crypto Trade Alerts, Bitcoin Technical Analysis, Crypto Signals, BTC Target Levels, DeFi Trading, Bitcoin Investing, Crypto Profits, Crypto Trade Tips",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
